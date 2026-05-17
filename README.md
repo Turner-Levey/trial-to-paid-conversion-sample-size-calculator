@@ -4,6 +4,8 @@ URL: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/
 
 Source: https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-calculator
 
+![Trial-to-Paid Conversion Sample Size Calculator preview](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg)
+
 No-Login pending listing: https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/
 
 No-Login badge status: https://nologin.tools/badge/trial-to-paid-conversion-sample-size-calculator-vercel-app/
