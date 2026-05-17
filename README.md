@@ -1,10 +1,10 @@
-# Trial-to-Paid Conversion Sample Size Calculator
+# SaaS A/B Test Sample Size Calculator
 
 URL: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/
 
 Source: https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-calculator
 
-![Trial-to-Paid Conversion Sample Size Calculator preview](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg)
+![SaaS A/B Test Sample Size Calculator preview](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg)
 
 No-Login pending listing: https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/
 
@@ -16,12 +16,13 @@ Maintainer: Turner Levey
 
 ## Summary
 
-Free browser-only calculator for estimating how many qualified SaaS trials are needed to detect a target trial-to-paid conversion lift, or to estimate a single conversion rate within a chosen margin of error.
+Free browser-only SaaS A/B test sample size calculator for estimating how many qualified trials are needed to detect a target trial-to-paid conversion lift, or to estimate a single conversion rate within a chosen margin of error.
 
 ## Use Cases
 
 - SaaS founders planning a trial-to-paid onboarding or packaging test.
 - Growth teams checking whether current trial volume can support an A/B test.
+- Product-led teams sizing pricing page, onboarding, or trial activation experiments before launch.
 - Operators estimating how long a conversion-rate read will take after trial lag.
 
 ## Privacy And Runtime

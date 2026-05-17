@@ -1,4 +1,4 @@
-# Trial-to-Paid Conversion Sample Size Calculator
+# SaaS A/B Test Sample Size Calculator
 
 Site: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/
 Source: https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-calculator
@@ -11,11 +11,11 @@ IndexNow key file: https://trial-to-paid-conversion-sample-size-calculator.verce
 
 ## Summary
 
-Free no-signup, no-tracking, browser-only calculator for SaaS trial-to-paid conversion sample-size planning. It estimates A/B test enrollment needs, expected paid conversions, readout timing after trial lag, and single-rate estimate sample size within a selected margin of error.
+Free no-signup, no-tracking, browser-only SaaS A/B test sample size calculator for trial-to-paid conversion planning. It estimates A/B test enrollment needs, expected paid conversions, readout timing after trial lag, and single-rate estimate sample size within a selected margin of error.
 
 ## Pages
 
-- [Trial-to-Paid Conversion Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/): Main browser worksheet with Markdown and CSV exports.
+- [SaaS A/B Test Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/): Main browser worksheet for trial-to-paid conversion sample-size planning with Markdown and CSV exports.
 - [No-Login pending listing](https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/): Public No-Login Tools route in pending-review state.
 - [No-Login badge status](https://nologin.tools/badge/trial-to-paid-conversion-sample-size-calculator-vercel-app/): Public badge route in pending-verification state.
 
