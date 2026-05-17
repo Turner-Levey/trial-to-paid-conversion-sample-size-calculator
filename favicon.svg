@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Trial-to-paid sample size calculator icon</title>
+  <rect width="64" height="64" rx="8" fill="#f7f6ee"/>
+  <path d="M12 46h40" stroke="#1f2937" stroke-width="4" stroke-linecap="square"/>
+  <rect x="16" y="29" width="8" height="13" fill="#0f766e"/>
+  <rect x="29" y="21" width="8" height="21" fill="#4f46e5"/>
+  <rect x="42" y="13" width="8" height="29" fill="#b45309"/>
+  <path d="M14 18h16l6 8h14" fill="none" stroke="#1f2937" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>

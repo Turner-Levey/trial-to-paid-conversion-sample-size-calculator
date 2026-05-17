@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Trial-to-Paid Conversion Sample Size Calculator</title>
+  <desc id="desc">Open graph preview for a no-tracking SaaS trial conversion sample-size calculator.</desc>
+  <rect width="1200" height="630" fill="#f7f6ee"/>
+  <rect x="72" y="70" width="1056" height="490" rx="8" fill="#ffffff" stroke="#d8d4c7" stroke-width="3"/>
+  <text x="112" y="150" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#6b7280">SAASTRIAL SAMPLE SIZE</text>
+  <text x="112" y="245" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" fill="#1f2937">Trial-to-Paid</text>
+  <text x="112" y="324" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" fill="#1f2937">Conversion Calculator</text>
+  <rect x="112" y="390" width="250" height="96" fill="#e5f3ef"/>
+  <rect x="392" y="338" width="250" height="148" fill="#eceafe"/>
+  <rect x="672" y="280" width="250" height="206" fill="#f8eadb"/>
+  <text x="132" y="452" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900" fill="#0f766e">Baseline</text>
+  <text x="412" y="452" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900" fill="#4f46e5">Variant</text>
+  <text x="692" y="452" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900" fill="#b45309">Weeks</text>
+  <path d="M146 184h338l82 83h310" fill="none" stroke="#1f2937" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="146" cy="184" r="14" fill="#0f766e"/>
+  <circle cx="566" cy="267" r="14" fill="#4f46e5"/>
+  <circle cx="876" cy="267" r="14" fill="#b45309"/>
+  <text x="112" y="530" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#6b7280">No signup. No tracking. Browser-only statistical planning worksheet.</text>
+</svg>

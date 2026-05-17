@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/sitemap.xml

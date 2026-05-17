@@ -1,0 +1,26 @@
+# Trial-to-Paid Conversion Sample Size Calculator
+
+Site: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/
+Source: https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-calculator
+Preview image: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg
+License: MIT
+Maintainer: Turner Levey
+IndexNow key file: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/ae5f24b9dda9ad3ae18484a58dd64720.txt
+
+## Summary
+
+Free no-signup, no-tracking, browser-only calculator for SaaS trial-to-paid conversion sample-size planning. It estimates A/B test enrollment needs, expected paid conversions, readout timing after trial lag, and single-rate estimate sample size within a selected margin of error.
+
+## Pages
+
+- [Trial-to-Paid Conversion Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/): Main browser worksheet with Markdown and CSV exports.
+
+## Runtime And Privacy
+
+- Runs fully in the browser.
+- No cookies, analytics, uploads, external scripts, browser storage, or runtime network calls.
+- Exports are generated locally.
+
+## Boundaries
+
+Statistical planning worksheet only. Not legal, financial, tax, accounting, investment, or growth advice.

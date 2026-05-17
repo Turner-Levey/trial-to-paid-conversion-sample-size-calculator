@@ -1,0 +1,10 @@
+{
+  "name": "trial-to-paid-conversion-sample-size-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "No-tracking trial-to-paid conversion sample size calculator.",
+  "license": "MIT",
+  "scripts": {
+    "check": "node --check script.js && node --check submit-indexnow.mjs"
+  }
+}
