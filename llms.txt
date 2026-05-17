@@ -3,6 +3,8 @@
 Site: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/
 Source: https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-calculator
 Preview image: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg
+No-Login pending listing: https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/
+No-Login badge status: https://nologin.tools/badge/trial-to-paid-conversion-sample-size-calculator-vercel-app/
 License: MIT
 Maintainer: Turner Levey
 IndexNow key file: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/ae5f24b9dda9ad3ae18484a58dd64720.txt
@@ -14,6 +16,8 @@ Free no-signup, no-tracking, browser-only calculator for SaaS trial-to-paid conv
 ## Pages
 
 - [Trial-to-Paid Conversion Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/): Main browser worksheet with Markdown and CSV exports.
+- [No-Login pending listing](https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/): Public No-Login Tools route in pending-review state.
+- [No-Login badge status](https://nologin.tools/badge/trial-to-paid-conversion-sample-size-calculator-vercel-app/): Public badge route in pending-verification state.
 
 ## Runtime And Privacy
 
