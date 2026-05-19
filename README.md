@@ -6,6 +6,8 @@ Source: https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-cal
 
 ![SaaS A/B Test Sample Size Calculator preview](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg)
 
+Tiny Tool Town listing: https://www.tinytooltown.com/tools/trial-to-paid-conversion-sample-size-calculator/
+
 No-Login pending listing: https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/
 
 No-Login badge status: https://nologin.tools/badge/trial-to-paid-conversion-sample-size-calculator-vercel-app/
@@ -45,5 +47,6 @@ This is a statistical planning worksheet. It is not legal, financial, tax, accou
 - Main tool: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/
 - Sitemap: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/sitemap.xml
 - Open Graph image: https://trial-to-paid-conversion-sample-size-calculator.vercel.app/og.svg
+- Tiny Tool Town listing: https://www.tinytooltown.com/tools/trial-to-paid-conversion-sample-size-calculator/
 - No-Login pending listing: https://nologin.tools/tool/trial-to-paid-conversion-sample-size-calculator-vercel-app/
 - No-Login pending-verification badge: https://nologin.tools/badge/trial-to-paid-conversion-sample-size-calculator-vercel-app/
